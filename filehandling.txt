@@ -1,0 +1,2 @@
+if you want to write to file from powershelll:
+"This is some text to write to a file." | Out-File -FilePath C:\path\to\yourfile.txt
