@@ -12,10 +12,10 @@ def caesar_cipher():
     alphabet = 'abcdefghijklmnopqrstuvwxyz'
     textfiles = [f for f in os.listdir('.') if f.endswith('.txt')] 
     while True:
-        print("Files:")
+        print("\nFiles:")
         for f in textfiles:
             print(f)
-        filename = input("Enter filename to decode ('q' to quit): ")
+        filename = input("File to decode ('q' to quit): ")
         if filename.lower() == 'q':
             break
         if filename in textfiles:
@@ -29,12 +29,10 @@ def caesar_cipher():
                     decoded_message += alphabet[new_index]
                 else:
                     decoded_message += char
-            print("Decoded:")
+            print("\nDecoded:")
             print(decoded_message)
         else:
             print(f"The file '{filename}' does NOT exist.")
 
 if __name__ == "__main__": 
     caesar_cipher()
-
-    

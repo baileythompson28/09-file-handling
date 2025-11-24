@@ -1,0 +1,154 @@
+{
+    "startday": "2025-08-26",
+    "endday": "2026-06-05",
+    "events": [
+        {
+            "event": "Teacher In-Service",
+            "days": ["2025-08-20", "2025-08-21"]
+        },
+        {
+            "event": "Labor Day",
+            "days": ["2025-09-01"]
+        },
+        {
+            "event": "Teacher In-Service",
+            "days": ["2025-10-13"]
+        },
+        {
+            "event": "Thanksgiving Break",
+            "days": ["2025-11-26", "2025-11-27", "2025-11-28", "2025-12-01"]
+        },
+        {
+            "event": "Winter Break",
+            "days": [
+                "2025-12-24",
+                "2025-12-25",
+                "2025-12-26",
+                "2025-12-29",
+                "2025-12-30",
+                "2025-12-31",
+                "2026-01-01",
+                "2026-01-02"
+            ]
+        },
+        {
+            "event": "MLK Day",
+            "days": ["2026-01-19"]
+        },
+        {
+            "event": "Teacher In-Service",
+            "days": ["2026-02-13"]
+        },
+        {
+            "event": "Presidents' Day",
+            "days": ["2026-02-16"]
+        },
+
+        {
+            "event": "Snow Makeup Day",
+            "days": ["2026-03-30", "2026-03-31", "2026-04-01"]
+        },
+        {
+            "event": "Spring Break",
+            "days": ["2026-04-02", "2026-04-03", "2026-04-06"]
+        },
+        {
+            "event": "Memorial Day",
+            "days": ["2026-05-25"]
+        }
+    ],
+    "milestones": [
+        {
+            "event": "Middle of Q1",
+            "days": ["2025-09-25"]
+        },
+        {
+            "event": "End of Q1",
+            "days": ["2025-10-29"]
+        },
+        {
+            "event": "Middle of Q2",
+            "days": ["2025-12-04"]
+        },
+        {
+            "event": "End of Q2",
+            "days": ["2026-01-16"]
+        },
+        {
+            "event": "Senior Portfolio Day",
+            "days": []
+        },
+        {
+            "event": "Middle of Q3",
+            "days": ["2026-02-20"]
+        },
+        {
+            "event": "End of Q3",
+            "days": ["2026-03-25"]
+        },
+        {
+            "event": "NOCTI Written Pre-Test (Juniors)",
+            "days": ["2026-04-09"]
+        },
+        {
+            "event": "NOCTI Written Test (Seniors)",
+            "days": ["2026-04-16"]
+        },
+        {
+            "event": "NOCTI Performance Test (Seniors)",
+            "days": [
+                "2026-04-20",
+                "2026-04-21",
+                "2026-04-22",
+                "2026-04-23",
+                "2026-04-24"
+            ]
+        },
+        {
+            "event": "NOCTI Make up Written Test (Seniors)",
+            "days": []
+        },
+        {
+            "event": "Middle of Q4",
+            "days": ["2026-05-04"]
+        },
+        {
+            "event": "Last Senior Day",
+            "days": []
+        },
+        {
+            "event": "End of Q4",
+            "days": ["2026-06-05"]
+        }
+    ],
+    "teacherduties": [
+        {
+            "event": "9th Grade Tours",
+            "days": []
+        },
+        {
+            "event": "9th Grade Tours",
+            "days": []
+        },
+        {
+            "event": "9th Grade Tours",
+            "days": []
+        },
+        {
+            "event": "9th Grade Open House",
+            "days": []
+        },
+        {
+            "event": "Art Senior Showcases",
+            "days": []
+        },
+        {
+            "event": "Senior Awards Ceremony",
+            "days": []
+        },
+        {
+            "event": "Last Teacher Day",
+            "days": []
+        }
+    ]
+}
