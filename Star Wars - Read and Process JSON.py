@@ -15,7 +15,7 @@ import json
 with open("star_wars.json", "r") as file:
     data = json.load(file)
 
-    for item in data["items"]:
+    for item in data["results"]:
         print(item["name"])
         print(f"- Height: {item['height']}")
         print(f"- Mass: {item['mass']}")
