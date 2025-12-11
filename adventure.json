@@ -1,0 +1,72 @@
+{
+    "start_id": "start",
+    "nodes": {
+        "start": {
+            "text": "You wake up in a dark forest.",
+            "options": [
+                {
+                    "choice_text": "Follow the narrow path",
+                    "next_id": "path"
+                },
+                {
+                    "choice_text": "Climb a tree to look around",
+                    "next_id": "tree"
+                }
+            ]
+        },
+        "path": {
+            "text": "You follow the path and find a small cottage.",
+            "options": [
+                {
+                    "choice_text": "Knock on the door",
+                    "next_id": "cottage"
+                },
+                {
+                    "choice_text": "Walk past quietly",
+                    "next_id": "wolves"
+                }
+            ]
+        },
+        "tree": {
+            "text": "From the top of the tree, you see smoke rising in the distance.",
+            "options": [
+                {
+                    "choice_text": "Climb down and follow the smoke",
+                    "next_id": "path"
+                },
+                {
+                    "choice_text": "Stay in the tree and wait",
+                    "next_id": "wait"
+                }
+            ]
+        },
+        "cottage": {
+            "text": "An old woman opens the door and offers you shelter.",
+            "options": [
+                {
+                    "choice_text": "Accept her offer",
+                    "next_id": "safe_end"
+                },
+                {
+                    "choice_text": "Politely decline and leave",
+                    "next_id": "wolves"
+                }
+            ]
+        },
+        "wait": {
+            "text": "You wait for hours. Eventually, you fall asleep and wake up safely at home.",
+            "options": [],
+            "ending": "Woke up safely at home"
+        },
+        "wolves": {
+            "text": "A pack of wolves surrounds you. This is the end...",
+            "options": [],
+            "ending": "Eaten by wolves"
+        },
+        "safe_end": {
+            "text": "You rest by the fire and plan your journey home. You are safe… for now.",
+            "options": [],
+            "ending": "Escaped safely"
+        }
+    }
+}

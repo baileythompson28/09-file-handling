@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Alice",
+        "ending": "Escaped safely",
+        "steps": [
+            {
+                "step_text": "You wake up in a dark forest.",
+                "choices": [
+                    "Follow the narrow path",
+                    "Climb a tree to look around"
+                ],
+                "choice": "Follow the narrow path"
+            },
+            {
+                "step_text": "You follow the path and find a small cottage.",
+                "choices": [
+                    "Knock on the door",
+                    "Walk past quietly"
+                ],
+                "choice": "Knock on the door"
+            },
+            {
+                "step_text": "An old woman opens the door and offers you shelter.",
+                "choices": [
+                    "Accept her offer",
+                    "Politely decline and leave"
+                ],
+                "choice": "Accept her offer"
+            }
+        ]
+    }
+]

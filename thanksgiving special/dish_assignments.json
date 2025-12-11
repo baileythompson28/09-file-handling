@@ -1,0 +1,62 @@
+[
+    {
+        "provider": "glen",
+        "servings": "25",
+        "dish": "turkey",
+        "notes": "Glen can't cook"
+    },
+    {
+        "provider": "nobody",
+        "servings": "2",
+        "dish": "cranberry sauce",
+        "notes": "nobody likes it"
+    },
+    {
+        "provider": "levi",
+        "servings": "17",
+        "dish": "corn",
+        "notes": "Levi's bringing a ton of corn"
+    },
+    {
+        "provider": "danylo",
+        "servings": "50",
+        "dish": "stuffing",
+        "notes": "he makes good stuffing"
+    },
+    {
+        "provider": "draven",
+        "servings": "100",
+        "dish": "mashed potatoes",
+        "notes": "Draven is good at mashing"
+    },
+    {
+        "provider": "bennett",
+        "servings": "400",
+        "dish": "dinner rolls",
+        "notes": "have a backup...he may forget or wander off"
+    },
+    {
+        "provider": "bailey",
+        "servings": "100",
+        "dish": "gravy",
+        "notes": "no comment"
+    },
+    {
+        "provider": "alex",
+        "servings": "3",
+        "dish": "pumpkin pie",
+        "notes": "alex doesn't wish to come to thanksgiving with us"
+    },
+    {
+        "provider": "cynthia",
+        "servings": "37",
+        "dish": "christmas cookies",
+        "notes": "other cookies as well!"
+    },
+    {
+        "provider": "aiden",
+        "servings": "4",
+        "dish": "cheesecake",
+        "notes": "no comment"
+    }
+]
